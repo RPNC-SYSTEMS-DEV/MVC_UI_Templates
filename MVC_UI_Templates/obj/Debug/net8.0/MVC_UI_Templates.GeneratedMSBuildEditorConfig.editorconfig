@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC_UI_Templates
+build_property.RootNamespace = MVC_UI_Templates
+build_property.ProjectDir = C:\Users\User\source\repos\MVC_UI_Templates\MVC_UI_Templates\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\source\repos\MVC_UI_Templates\MVC_UI_Templates
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/Vegetable4/_Veg4_Banner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZlZ2V0YWJsZTRcX1ZlZzRfQmFubmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/Vegetable4/_Veg4_Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZlZ2V0YWJsZTRcX1ZlZzRfQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/Vegetable4/_Veg4_Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZlZ2V0YWJsZTRcX1ZlZzRfQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/Vegetable4/_Veg4_Deals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZlZ2V0YWJsZTRcX1ZlZzRfRGVhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/Vegetable4/_Veg4_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZlZ2V0YWJsZTRcX1ZlZzRfRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/Vegetable4/_Veg4_GiftCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZlZ2V0YWJsZTRcX1ZlZzRfR2lmdENhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/Vegetable4/_Veg4_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZlZ2V0YWJsZTRcX1ZlZzRfSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/Vegetable4/_Veg4_HomeSlider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZlZ2V0YWJsZTRcX1ZlZzRfSG9tZVNsaWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/Vegetable4/_Veg4_Product_Fruits.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZlZ2V0YWJsZTRcX1ZlZzRfUHJvZHVjdF9GcnVpdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/Vegetable4/_Veg4_Product_Vegetables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZlZ2V0YWJsZTRcX1ZlZzRfUHJvZHVjdF9WZWdldGFibGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/Vegetable4/_Veg4_Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZlZ2V0YWJsZTRcX1ZlZzRfU2VydmljZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/_Veg4_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WZWc0X0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Vegetable4/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVnZXRhYmxlNFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/MVC_UI_Templates/MVC_UI_Templates/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wc4o29ke5c

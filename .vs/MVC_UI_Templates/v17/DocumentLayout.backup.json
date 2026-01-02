@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE5DA48-DFF9-4098-8A73-FAA4573C7591}|MVC_UI_Templates\\MVC_UI_Templates.csproj|c:\\users\\user\\source\\repos\\mvc_ui_templates\\mvc_ui_templates\\views\\shared\\_veg4_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE5DA48-DFF9-4098-8A73-FAA4573C7591}|MVC_UI_Templates\\MVC_UI_Templates.csproj|solutionrelative:mvc_ui_templates\\views\\shared\\_veg4_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE5DA48-DFF9-4098-8A73-FAA4573C7591}|MVC_UI_Templates\\MVC_UI_Templates.csproj|c:\\users\\user\\source\\repos\\mvc_ui_templates\\mvc_ui_templates\\views\\vegetable4\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE5DA48-DFF9-4098-8A73-FAA4573C7591}|MVC_UI_Templates\\MVC_UI_Templates.csproj|solutionrelative:mvc_ui_templates\\views\\vegetable4\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE5DA48-DFF9-4098-8A73-FAA4573C7591}|MVC_UI_Templates\\MVC_UI_Templates.csproj|c:\\users\\user\\source\\repos\\mvc_ui_templates\\mvc_ui_templates\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE5DA48-DFF9-4098-8A73-FAA4573C7591}|MVC_UI_Templates\\MVC_UI_Templates.csproj|solutionrelative:mvc_ui_templates\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE5DA48-DFF9-4098-8A73-FAA4573C7591}|MVC_UI_Templates\\MVC_UI_Templates.csproj|c:\\users\\user\\source\\repos\\mvc_ui_templates\\mvc_ui_templates\\views\\shared\\vegetable4\\_veg4_services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE5DA48-DFF9-4098-8A73-FAA4573C7591}|MVC_UI_Templates\\MVC_UI_Templates.csproj|solutionrelative:mvc_ui_templates\\views\\shared\\vegetable4\\_veg4_services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE5DA48-DFF9-4098-8A73-FAA4573C7591}|MVC_UI_Templates\\MVC_UI_Templates.csproj|c:\\users\\user\\source\\repos\\mvc_ui_templates\\mvc_ui_templates\\views\\shared\\vegetable4\\_veg4_deals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE5DA48-DFF9-4098-8A73-FAA4573C7591}|MVC_UI_Templates\\MVC_UI_Templates.csproj|solutionrelative:mvc_ui_templates\\views\\shared\\vegetable4\\_veg4_deals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE5DA48-DFF9-4098-8A73-FAA4573C7591}|MVC_UI_Templates\\MVC_UI_Templates.csproj|c:\\users\\user\\source\\repos\\mvc_ui_templates\\mvc_ui_templates\\views\\shared\\vegetable4\\_veg4_giftcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AE5DA48-DFF9-4098-8A73-FAA4573C7591}|MVC_UI_Templates\\MVC_UI_Templates.csproj|solutionrelative:mvc_ui_templates\\views\\shared\\vegetable4\\_veg4_giftcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\MVC_UI_Templates\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_UI_Templates\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\MVC_UI_Templates\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_UI_Templates\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T07:46:14.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Veg4_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\MVC_UI_Templates\\Views\\Shared\\_Veg4_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_UI_Templates\\Views\\Shared\\_Veg4_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\MVC_UI_Templates\\Views\\Shared\\_Veg4_Layout.cshtml",
+              "RelativeToolTip": "MVC_UI_Templates\\Views\\Shared\\_Veg4_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T07:43:18.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Veg4_Deals.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\MVC_UI_Templates\\Views\\Shared\\Vegetable4\\_Veg4_Deals.cshtml",
+              "RelativeDocumentMoniker": "MVC_UI_Templates\\Views\\Shared\\Vegetable4\\_Veg4_Deals.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\MVC_UI_Templates\\Views\\Shared\\Vegetable4\\_Veg4_Deals.cshtml",
+              "RelativeToolTip": "MVC_UI_Templates\\Views\\Shared\\Vegetable4\\_Veg4_Deals.cshtml",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAiwJMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T07:35:11.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Veg4_GiftCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\MVC_UI_Templates\\Views\\Shared\\Vegetable4\\_Veg4_GiftCard.cshtml",
+              "RelativeDocumentMoniker": "MVC_UI_Templates\\Views\\Shared\\Vegetable4\\_Veg4_GiftCard.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\MVC_UI_Templates\\Views\\Shared\\Vegetable4\\_Veg4_GiftCard.cshtml",
+              "RelativeToolTip": "MVC_UI_Templates\\Views\\Shared\\Vegetable4\\_Veg4_GiftCard.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T07:34:47.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\MVC_UI_Templates\\Views\\Vegetable4\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_UI_Templates\\Views\\Vegetable4\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\MVC_UI_Templates\\Views\\Vegetable4\\Index.cshtml",
+              "RelativeToolTip": "MVC_UI_Templates\\Views\\Vegetable4\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T06:49:38.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Veg4_Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\MVC_UI_Templates\\Views\\Shared\\Vegetable4\\_Veg4_Services.cshtml",
+              "RelativeDocumentMoniker": "MVC_UI_Templates\\Views\\Shared\\Vegetable4\\_Veg4_Services.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVC_UI_Templates\\MVC_UI_Templates\\Views\\Shared\\Vegetable4\\_Veg4_Services.cshtml",
+              "RelativeToolTip": "MVC_UI_Templates\\Views\\Shared\\Vegetable4\\_Veg4_Services.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T07:35:35.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
